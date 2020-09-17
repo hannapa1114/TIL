@@ -22,7 +22,7 @@
 5. 데드라인을 정해서 뭔가를 만든다!
 6. 공부한 내용은 반드시 기록(TIL을 제대로 기록하지 못한 나를 반성)
 
-[어려운 것을 쉽게 배우는 방법] (http://www.moreagile.net/2016/02/learning-new-stuff.html)
+[어려운 것을 쉽게 배우는 방법](http://www.moreagile.net/2016/02/learning-new-stuff.html)
 1. 배우기 전에 익숙해져라
 2. 난관에 도전하라
 3. 무언가를 만들어라
