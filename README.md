@@ -4,5 +4,4 @@
 - 기록해야 기억에 남습니다.
 
 ###Attitude
-
-[어떻게 공부할 것인가](https://github.com/hannapa1114/TIL/blob/master/Attitude/how%20to%20study.md)
+* [어떻게 공부할 것인가](https://github.com/hannapa1114/TIL/blob/master/Attitude/how%20to%20study.md)
