@@ -46,12 +46,6 @@ const user: User = new UserAccount("Murphy", 1);
 
 
 4.
-> There are already a small set of primitive types available in JavaScript: "boolean", "bigint", "number,
-> "string", "symbol", "object", and "undefined", which you can use in an interface. 
-> TypeScript extends  this list with a few more, such as 
-> any (allow anything), //어느 것이나
-> unknown (ensure someone using this type  declares what the type is), // 다른 곳에서 지정한 type이 있다
-> never (it’s not possible that this type could happen), // 이건 쓰면 안된다
-> and void (a function which returns undefined or has no return value). // undefinde를 return하거나 return value가 없다
+There are already a small set of primitive types available in JavaScript: `"boolean", "bigint", "number, "string", "symbol", "object", and "undefined"`, which you can use in an interface. TypeScript extends  this list with a few more, such as `any` (allow anything), `unknown` (ensure someone using this type  declares what the type is), `never` (it’s not possible that this type could happen),and `void` (a function which returns undefined or has no return value).
 
 
