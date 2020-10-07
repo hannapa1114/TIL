@@ -11,3 +11,4 @@
 
 ### Typescript
 * [Get started](https://github.com/hannapa1114/TIL/blob/master/Typescript/Getstarted.md)
+* [Basic type](https://github.com/hannapa1114/TIL/blob/master/Typescript/Basic%20Type.md)
