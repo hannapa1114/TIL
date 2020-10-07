@@ -8,3 +8,6 @@
 
 ### OAuth2.0
 * [social login](https://github.com/hannapa1114/TIL/blob/master/OAuth2.0/socialLogin.md)
+
+### Typescript
+* [Get started](https://github.com/hannapa1114/TIL/blob/master/Typescript/Getstarted.md)
