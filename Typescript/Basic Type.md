@@ -134,6 +134,9 @@ create(undefined); // 오류
 ```
 
 ### Type Assertion
+* type을 할당하는 두 가지 방법
+  1. < type >
+  2. ... as type
 ```
 let someValue: any = "this is a string";
 
@@ -144,4 +147,14 @@ let strLength: number = (<string>someValue).length;
 let someValue: any = "this is a string";
 
 let strLength: number = (someValue as string).length;
+```
+
+### About Number, String, Boolean, Symbol and Object
+* type을 지정할 때 lowercase가 권장된다. do'not use upper case
+```
+function reverse(s: string): string {
+  return s.split("").reverse().join("");
+}
+
+reverse("hello world");
 ```
