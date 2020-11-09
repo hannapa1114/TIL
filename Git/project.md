@@ -9,3 +9,6 @@
 
 팀 내 동의없이 merge 금지!
 pr시 #issue number closing
+
+#### add, commit, push 되돌리기
+- [링크](https://gmlwjd9405.github.io/2018/05/25/git-add-cancle.html)
