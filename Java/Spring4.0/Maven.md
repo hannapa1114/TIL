@@ -5,7 +5,7 @@
 - 중앙 Repository라고 불리는 서버로부터 필요한 jar파일을 다운로드 받아 의존묘듈을 관리한다.
 
 #### 기본 설정
-1. (메이븐 다운로드)[https://maven.apache.org/download.cgi]
+1. [메이븐 다운로드](https://maven.apache.org/download.cgi)
 2. zip 파일을 적당한 경로에 압축해제 한다.
 3. 환경변수 설정
    - 시스템 환경 변수에 maven path를 만든다 
