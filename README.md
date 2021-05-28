@@ -21,6 +21,8 @@
 
 ### CSS
 * [responsive web](https://github.com/hannapa1114/TIL/blob/master/Css/responsiveWeb.md)
+* [All of img](https://github.com/hannapa1114/TIL/blob/master/Css/image.md)
+* [Flex and Grid](https://github.com/hannapa1114/TIL/blob/master/Css/flexAndGrid.md)
 
 ### OAuth2.0
 * [social login](https://github.com/hannapa1114/TIL/blob/master/OAuth2.0/socialLogin.md)
