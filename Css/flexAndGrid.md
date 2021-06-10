@@ -1,4 +1,4 @@
-# Let's talk about Flex & Grid
+# Flex vs Grid
 
 ### Flex
 - 1차원 영역 수직, 수평 한 방향으로의 element 배치
