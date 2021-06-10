@@ -1,5 +1,23 @@
 ### React-Native
 
+#### environment setup MacOS + ios(xcode)
+1. requirement
+- node version over 12
+- nvm version over 6
+- Simulator(xcode)
+
+2. init project
+exoi-cli 전역설치
+```
+npm install -g expo-cli
+```
+프로젝트 생성
+```
+expo init AwesomeProject
+
+cd AwesomeProject
+```
+
 #### environment setup MacOS + android
 1. node & watchman
 ```
