@@ -6,6 +6,8 @@
 ### Attitude
 * [어떻게 공부할 것인가](https://github.com/hannapa1114/TIL/blob/master/Attitude/how%20to%20study.md)
 
+### Javascript
+* [Throttling&Debouncing](https://github.com/hannapa1114/TIL/blob/master/Javascript/ThrottlingDebouncing.md)
 
 ### React
 * [React Hooks](https://github.com/hannapa1114/TIL/blob/master/React/react%20hook.md)
