@@ -1,5 +1,17 @@
 ### 공식문서 파헤치기
 
+> create project
+
+```
+npx degit sveltejs/template my-svelte-project
+cd my-svelte-project
+npm install
+npm run dev
+```
+
+to use _TypeScript_ run :
+node scripts/setupTypeScrpt.js
+
 > COMPONENT FORMAT
 
 - 컴포넌트 확장자는 .svelte고 HTML superset을 차용
