@@ -11,7 +11,7 @@
 
 ### Svelte
 * [Get Started](https://github.com/hannapa1114/TIL/blob/master/Svelte/GetStarted.md)
-* [Deep dive DOCS](https://github.com/hannapa1114/TIL/blob/master/Svelte/DeepdiveDOCS.md)
+* [Deep dive DOCS](https://github.com/hannapa1114/TIL/blob/master/Svelte/Deep%20dive%20DOCS.md)
 * [Store](https://github.com/hannapa1114/TIL/blob/master/Svelte/Store.md)
 
 ### React
