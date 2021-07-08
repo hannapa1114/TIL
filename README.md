@@ -10,7 +10,7 @@
 * [Throttling&Debouncing](https://github.com/hannapa1114/TIL/blob/master/JavaScript/ThrottlingDebouncing.md)
 
 ### Svelte
-* [Get Started](https://github.com/hannapa1114/TIL/blob/master/Svelte/GetStarted.md)
+* [Get Started](https://github.com/hannapa1114/TIL/blob/master/Svelte/Get%20started.md)
 * [Deep dive DOCS](https://github.com/hannapa1114/TIL/blob/master/Svelte/Deep%20dive%20DOCS.md)
 * [Store](https://github.com/hannapa1114/TIL/blob/master/Svelte/Store.md)
 
