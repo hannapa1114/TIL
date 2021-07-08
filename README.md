@@ -9,6 +9,11 @@
 ### Javascript
 * [Throttling&Debouncing](https://github.com/hannapa1114/TIL/blob/master/JavaScript/ThrottlingDebouncing.md)
 
+### Svelte
+* [Get Started](https://github.com/hannapa1114/TIL/blob/master/Svelte/GetStarted.md)
+* [Deep dive DOCS](https://github.com/hannapa1114/TIL/blob/master/Svelte/DeepdiveDOCS.md)
+* [Store](https://github.com/hannapa1114/TIL/blob/master/Svelte/Store.md)
+
 ### React
 * [React Hooks](https://github.com/hannapa1114/TIL/blob/master/React/react%20hook.md)
 * [React with typescript](https://github.com/hannapa1114/TIL/blob/master/React/react%20wit%20typescript.md)
